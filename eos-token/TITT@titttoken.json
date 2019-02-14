@@ -1,0 +1,20 @@
+{
+    "symbol": "TITT,
+    "account_name": "fortunechain",
+    "overview": {
+        "en": "TITT is the abbreviation of Treasure in treasure token, the treasure treasure of the original assets digital certificate of the wealth chain project. Artificial intelligence hardware equipment transforms the physical information of jewelry and antique into image data information, then encrypts image data information and extracts hash value to generate. It is a series of computer encrypted digital sequence codes, and also a virtual asset carrying personalized image information of specific jewelry and antique objects. As a value carrier, Treasure Collection (TITT) will have the functions of data certification, identity authentication, value scale, circulation means and value storage in the ecosystem.",
+        "zh": "TITT是财富链项目原生资产数字证书珍藏宝Treasure in treasure token的简称。由人工智能硬件设备将珠宝古玩实物信息转化为图像数据信息之后，把图像数据信息进行加密并提取哈希值生成。是一串计算机加密数字序列码，也是一种携带特定珠宝古玩实物个性化图像信息的虚拟资产。作为一种价值载体，珍藏宝（TITT）将具备生态体系内的数据证明、身份认证、价值尺度、流通手段、价值贮藏等职能。"
+    },
+    "email": "fortunechain008@gmail.com",
+    "website": "",
+    "whitepaper": "",
+    "published_on": "2019-02-12",
+    "initial_price": {
+        "EOS": "0.05 EOS",
+        "USD": "0.148 USD"
+    },
+    "links": {
+        "telegram": "https://t.me/joinchat/IYPf-RTx01Su_vRiFJVy5Q",
+        "github": "https://github.com/fortunechain/fortunechain-wtn"
+    }
+}
